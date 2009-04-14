@@ -1,4 +1,4 @@
-= Introduction =
+= What is camel-soap? =
 
 _camel-soap_ is an Apache Camel component that provides support for zero-code SOAP requests from Camel Routes. 
 
