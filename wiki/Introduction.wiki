@@ -1,4 +1,4 @@
-= What is camel-soap? =
+== What is camel-soap? ==
 
 _camel-soap_ is an Apache Camel component that provides support for zero-code SOAP requests from Camel Routes. 
 
@@ -6,7 +6,7 @@ Camel distro already provides the excellent camel-cxf component. CXF component i
 
 Right now camel-soap is a producing only component which means it is not possible to create endpoints inside the from() method in camel routes. 
 
-= Using camel-soap =
+== Using camel-soap ==
 
 camel-soap is a maven based project but it is not yet available in any maven public repository. To include camel-soap in your project you need to download the source code and build it running the command:
 
@@ -60,7 +60,7 @@ After adding camel-soap to your project you can use it in camel routes to invoke
 
 }}}
 
-= Endpoint parameters =
+== Endpoint parameters ==
  * *wsdlUrl:* Target web service WSDL location.
  * *serviceAddress:* Web service address.
- * *operationName:* Method to be invoked. 
+ * *operationName:* Method to be invoked.
