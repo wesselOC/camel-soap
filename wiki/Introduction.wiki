@@ -59,3 +59,8 @@ After adding camel-soap to your project you can use it in camel routes to invoke
       });
 
 }}}
+
+= Endpoint parameters =
+ * *wsdlUrl:* Target web service WSDL location.
+ * *serviceAddress:* Web service address.
+ * *operationName:* Method to be invoked. 
