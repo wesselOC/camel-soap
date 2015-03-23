@@ -1,0 +1,1 @@
+Zero code WSDL based SOAP Client component for Apache Camel.
